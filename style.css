@@ -1,0 +1,20 @@
+* {
+    margin          : 0 auto;
+    padding         : 0;
+    background-color: hsl(30, 4%, 27%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading {
+    margin-top: 10vh auto;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.para {
+    margin-top: 10vh;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
